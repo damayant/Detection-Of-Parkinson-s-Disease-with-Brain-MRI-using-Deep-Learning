@@ -1,0 +1,2 @@
+# Detection-Of-Parkinson-s-Disease-with-Brain-MRI-using-Deep-Learning
+This project aims at classifying the brain MRIs into healthy and the ones affected by Parkinson using Deep Learning. With a dataset of mere 1360 MRIs (from the University of Alberta hospital), this project  was carried out on Keras using Theano. The famous LeNet-5 model was used with some fine tuning to achieve an accuracy of 99.67% . 
